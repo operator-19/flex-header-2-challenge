@@ -10,9 +10,8 @@ Just like you did in the `02-flex-header` exercise, you'll be nesting flex conta
 ## Desired outcome
 As with the last example, this one needs to be flexible in the middle, with items pushed to the left and right.
 
-![png](./desired-outcome.png)
-
-![gif](./desired-outcome.gif)
+![image](https://user-images.githubusercontent.com/70670914/219229037-0f5897f5-2286-4cc5-9712-c4abc203a4c5.png)
+![image](https://user-images.githubusercontent.com/70670914/219229063-a30a1ce0-f386-45de-aefa-99d83de9c9ed.png)
 
 ### Self Check
 - Everything is centered vertically inside the header.
